@@ -86,3 +86,9 @@ const GetStarted = () => {
 }
 
 export default GetStarted
+
+
+Spreading FEATURE properties, video time stamp - 1:20:53,  <FeatureCard key={feature.id} {...feature} index={index}  />
+feature is an array of 4 values, id, icon, content, title, spreading the feature ... 
+
+A great video to understand the positionining FINALLY of the items on web site, this might be a breakthrough for the portfolio website
